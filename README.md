@@ -5,10 +5,10 @@ Prototipo de seguidor solar automatizado de 2 ejes con Arduino
 * Placa base Arduino para el sistema de control.
 * Sensores de luz (LDR) para el seguimiento automatizado de dos ejes.
 * Servomotores para el control de movimiento y posicionamiento de los paneles.
-* Concentradores solares con geometría V-planar (Diseño en CAD) acoplados a un panel solar de 1W.
 * Sensor de corriente INA219 para medición de potencia y telemetría.
 * Módulo de carga TP4056 con regulador boost para la gestión de energía.
 * Pantalla OLED para la visualización de datos en tiempo real.
+* Panel solar de 3V (Planee utilizar de 5V pero el peso en la estructura causaba inestabilidad)
 
 ## Diagrama del Circuito
 
